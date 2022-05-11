@@ -1,0 +1,19 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    background-color: #a9a9a9;
+}
+
+.button.is-light {
+    height: 30px;
+    width: 220px;
+    margin-left: 75px;
+    /* margin-right: 5px; */
+    margin-top: 10px;
+}
+
+b {
+    margin-left: 35px;
+}}
